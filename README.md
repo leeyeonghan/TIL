@@ -1,2 +1,4 @@
 # TIL
-Today i learned
+I will write what i leanred about computer science.
+
+
