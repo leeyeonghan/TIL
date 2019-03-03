@@ -3,9 +3,9 @@ I will write what i leanred about computer science.
 
 ## Algorithm
 
-<ol>a</ol>
-<ol>a</ol>
-<ul>b<ul>
+<ol>1.a</ol>
+<ol>2.a</ol>
+<ul>-b<ul>
 
 ## Data Structure
 
