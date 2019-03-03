@@ -5,7 +5,7 @@ I will write what i leanred about computer science.
 
 <ol>1.a</ol>
 <ul>https://google.com/</ul>
-<ol>2. [Google](https://google.com/)</ol>
+[Google](https://google.com/)
 <ul>- b</ul>
 
 ## Data Structure
