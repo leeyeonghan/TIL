@@ -5,13 +5,13 @@ I will write what i leanred about computer science.
 
 >**1.** [**Big-O**](https://github.com/leeyeonghan/TIL/blob/master/Algorithm/Big-O)
 
-## Operating System
+## OperatingSystem
 
 >**1.** [**Header**](https://google.com/)
 
-## Blockchain
+## BlockChain
 
-## Data Structure
+## DataStructure
 
 ## Network
 
@@ -19,5 +19,5 @@ I will write what i leanred about computer science.
 
 ## Database
 
-## SERVER
+## Server
 
