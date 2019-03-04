@@ -3,7 +3,7 @@ I will write what i leanred about computer science.
 
 ## Algorithm
 
-<ol>1.a</ol>
+<ol>1. [sibal](https://google.com/) </ol>
 https://google.com/
 [Google]:https://google.com/
 <ul>- b</ul>
