@@ -3,7 +3,7 @@ I will write what i leanred about computer science.
 
 ## Algorithm
 
->**1.** [**Big-O**](https://google.com/)
+>**1.** [**Big-O**](TIL/Algorithm/Big-O)
 
 ## Operating System
 
