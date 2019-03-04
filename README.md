@@ -3,11 +3,14 @@ I will write what i leanred about computer science.
 
 ## Algorithm
 
->1. [**Big-O**](https://google.com/)
+>**1.** [**Big-O**](https://google.com/)
 
-**hi**
+## Operating System
 
-[sibal](https://google.com/)
+>**1.** [**Header**](https://google.com/)
+
+## Blockchain
+
 ## Data Structure
 
 ## Network
@@ -15,8 +18,6 @@ I will write what i leanred about computer science.
 ## Android
 
 ## Database
-
-## Blockchain
 
 ## SERVER
 
