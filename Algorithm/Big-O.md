@@ -35,17 +35,16 @@ Big-O 시간은 알고리즘의 효율성을 나타내는 지표 혹은 언어�
 > 2.공간 복잡도에 해당되는 경우 
 <ul>-배열을 만드는 경우 : 1차원 배열(O(n)) , 2차원 배열(O(n^2))</ul>
 > 3.계산되지 않는 경우.
-```java
-'''int pairSumSequence(int t) {
-      for(int i=0;i<n;i++){
-        sum+= pairSum(i,i + 1);
-        }
-        return sum;   
-    }
+```java  
+int pairSumSequence(int t) {  
+      for(int i=0;i<n;i++){  
+        sum+= pairSum(i,i + 1);  
+        }  
+        return sum;     
+    }  
+      
+    int pairSum(int a,int b){  
+    return a + b;  
+    }  
     
-    int pairSum(int a,int b){
-    return a + b;
-    }
-    
-'''
 ```
